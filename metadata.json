@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Generator AI",
+  "description": "An AI-powered application to generate short videos for YouTube from a simple topic or script. Choose a style, provide a topic, review the AI-generated script, and create a video in minutes.",
+  "requestFramePermissions": []
+}
